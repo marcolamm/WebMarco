@@ -1,0 +1,50 @@
+﻿body {
+ font: helvetica;
+ font-family : serif;
+border : solid 2px;
+border-color : grey;
+ height : absolute;
+ width:1033;
+ 
+ 
+ padding : 1px;
+margin-right:40px;
+margin-left:40px;
+}
+ p {
+font-family: sans-serif;
+ font-weight : bold;
+ font-size : 18px; }
+
+ h1  {
+ font-family: sans-serif;
+ font-color: white;
+ }
+ #zitate {
+ border-width:thin;
+ border-style:solid;
+ border-color: black;
+background-color:lightgrey;
+width: 1013px;
+padding: 10px;
+ 
+ }
+ #titel  {
+ border-width:thin;
+ border-style:solid;
+ border-color: grey;
+ height: 100px;
+ 
+ background-image: url(pics/Universum.png);
+ background-repeat:no-repeat;
+ background-size: 1033px  100%;
+ font:   xx-large /1.6em Verdana, Helvetica, Arial, serif;
+ 
+letter-spacing: 20px;
+font-weight: bold;
+ color: silver;
+ padding: 10px;
+ padding-top:35px;
+ width:1013;
+ }
+ 
